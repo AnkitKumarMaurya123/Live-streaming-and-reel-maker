@@ -84,7 +84,7 @@ http://localhost:3000
 ---
 
 ## 📸 Screenshots
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3270e84b-a3c4-40ab-8aca-2834d74878db" />
+<img width="1257" height="758" alt="image" src="https://github.com/user-attachments/assets/ad6e754d-f8b1-436a-81e7-d1f24f3030ad" />
 
 ---
 
