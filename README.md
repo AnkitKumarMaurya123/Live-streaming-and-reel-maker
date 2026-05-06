@@ -1,4 +1,4 @@
-# 🎥 Live Streaming & Video Editing Platform
+# 🎥 Live Streaming & Reel - Maker
 
 A modern **web-based streaming platform** designed to simplify **solo content creation**, enable **live streaming**, and provide **built-in video editing tools** — all in one place.
 
